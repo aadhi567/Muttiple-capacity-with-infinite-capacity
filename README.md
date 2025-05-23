@@ -1,6 +1,6 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
-# NAME : AADHITHAN B
-# REGISTER NO : 212224040001
+# EX NO 5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+ NAME : AADHITHAN B
+REGISTER NO : 212224040001
 
 
 ## Aim :
